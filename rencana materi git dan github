@@ -6,3 +6,5 @@ RENCANA PEMBELAJARAN GIT DAN GITHUB
 5. Penjelasan check in dan check out di branch pada repository github.
 6. Penjelasan compare & pull request pada github
 7. Penjelasan tentang merge conflict pada github
+   ^ membuat simulasi perubahan file terkait merge conflick
+   ^ simulasi pertama dengan membuat branch 1 dengan perubahan file yg sama dengan brach 2
