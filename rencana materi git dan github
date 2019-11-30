@@ -8,3 +8,5 @@ RENCANA PEMBELAJARAN GIT DAN GITHUB
 7. Penjelasan tentang merge conflict pada github
    ^ membuat simulasi perubahan file terkait merge conflick
    ^ simulasi pertama dengan membuat branch 1 dengan perubahan file yg sama dengan brach 2
+   ^ Melakukan simulasi merge file yang sama setelah dilakukan perubahan pada point ke 7 di branch 2 
+
